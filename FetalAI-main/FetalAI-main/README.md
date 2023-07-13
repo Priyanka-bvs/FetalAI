@@ -3,11 +3,11 @@
 This project focuses on developing a fetal health monitoring system using machine learning algorithms. The system aims to analyze decelerations and other relevant parameters to assess the health condition of the fetus. This README file provides an overview of the project and instructions on how to use and contribute to it.
 
 # Table of Contents
-- [Introduction](https://github.com/edilauxillea/FetalAI/blob/main/README.md#introduction)
-- [Features](https://github.com/edilauxillea/FetalAI/blob/main/README.md#features)
-- [Installation](https://github.com/edilauxillea/FetalAI/blob/main/README.md#installation)
-- [Usage](https://github.com/edilauxillea/FetalAI/blob/main/README.md#usage)
-- [Contributing](https://github.com/edilauxillea/FetalAI/blob/main/README.md#contributing)
+- [Introduction](https://github.com/Priyanka-bvs/FetalAI/blob/main/README.md#introduction)
+- [Features](https://github.com/Priyanka-bvs/FetalAI/blob/main/README.md#features)
+- [Installation](https://github.com/Priyanka-bvs/FetalAI/blob/main/README.md#installation)
+- [Usage](https://github.com/Priyanka-bvs/FetalAI/blob/main/README.md#usage)
+- [Contributing](https://github.com/Priyanka-bvs/FetalAI/blob/main/README.md#contributing)
 
 # Introduction
 Fetal health monitoring is a critical aspect of prenatal care. Through the analysis of relevant parameters, such as maternal age, blood pressure, heart rate, and uterine contractions, healthcare professionals can evaluate the well-being of the fetus and identify potential complications. This project focuses on developing a fetal health monitoring system using machine learning algorithms. The system aims to analyze a dataset, consisting of various parameters related to fetal health and maternal well-being. By leveraging machine learning algorithms, the system can assess the health condition of the fetus based on these input parameters.
@@ -37,7 +37,7 @@ To install and set up the fetal health monitoring system, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/edilauxillea/FetalAI.git
+git clone https://github.com/Priyanka-bvs/fetalAI.git
 ```
 
 2. Navigate to the project directory:
